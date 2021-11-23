@@ -1,7 +1,3 @@
-# IoT-dev-hacks
-different way for the same
-
-[ hook-to-ch340-nodemcuV3](/hook-to-ch340-nodemcuV3)
 Записваме празна скица на NodeMCU v.3 с Arduino IDE;
 (виж приложената схема)
 Качваме код на ESP-12N по обичайния начин
